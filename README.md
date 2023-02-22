@@ -2,7 +2,7 @@
 
 - 🎓Mechatronics Engineering student @ Universidade de São Paulo
 - 🤖I'm currently part of **[SEMEAR]**
-- ✨Deep Learning and robotics enthusiasti
+- ✨Deep Learning and robotics enthusiastic
 - 📖 Researcher of piezoeletrics materials and its optimization
 
 
