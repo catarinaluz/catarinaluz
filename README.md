@@ -3,7 +3,7 @@
 - Mechatronics Engineering student @ Universidade de São Paulo
 - I'm currently part of **[SEMEAR]**
 - Deep Learning and robotics enthusiastic
-- Researcher of piezoeletrics materials and its improvements
+- Researcher of piezoeletrics materials and its optimization
 
 <div>
   <a href="https://github.com/catarinaluz">
