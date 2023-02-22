@@ -8,6 +8,8 @@
 <div>
   <a href="https://github.com/catarinaluz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catarinaluz&show_icons=true&theme=gotham&include_all_commits=false&count_private=true"/>
+    
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaluz&layout=compact&langs_count=6&theme=gotham&exclude_repo=Rocket.Q,podcastr-nlw5"/>
 </div>
 
