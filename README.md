@@ -1,9 +1,9 @@
 ### Hi there! I'm Catarina Luz 👋
 
-- Mechatronics Engineering student @ Universidade de São Paulo
-- I'm currently part of **[SEMEAR]**
-- Deep Learning and robotics enthusiastic
-- Researcher of piezoeletrics materials and its optimization
+- 📝Mechatronics Engineering student @ Universidade de São Paulo
+- 🤖I'm currently part of **[SEMEAR]**
+- ✨Deep Learning and robotics enthusiasti
+- 👩🏻‍🔬Researcher of piezoeletrics materials and its optimization
 
 <div>
   <a href="https://github.com/catarinaluz">
